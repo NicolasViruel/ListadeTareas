@@ -12,7 +12,7 @@
 #### npm run dev
 
 ## App subida a netlify
-### https://natillas-amigas-0727b2.netlify.app
+### https://lista-de-tareas-ty.netlify.app
 
 ## Herramientas Utilizadas🛠️
 
