@@ -12,7 +12,7 @@
 #### npm run dev
 
 ## App subida a netlify
-### En proceso
+### https://natillas-amigas-0727b2.netlify.app
 
 ## Herramientas Utilizadas🛠️
 
@@ -27,6 +27,7 @@
 ## Integrantes del Proyecto
 
 #### - Nicolas Viruel 🐤
+## - Gracias por visitar
 
 ## Agenda tu Tarea 🎈💯
 
